@@ -7,6 +7,8 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 in.getclicky.com
 127.0.0.1 server.cpmstar.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
 
 
 # Some sites which it may contain advertisements
@@ -70,7 +72,12 @@
 127.0.0.1 cdn.steepto.com
 127.0.0.1 imgg-cdn.steepto.com
 127.0.0.1 utraffic.engine.adglare.net
-
+127.0.0.1 d1nmxiiewlx627.cloudfront.net
+127.0.0.1 boudja.com
+127.0.0.1 rosemand.pro
+127.0.0.1 c1.popads.net
+127.0.0.1 filternal.space
+127.0.0.1 shermore.info
 
 
 
